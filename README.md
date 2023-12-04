@@ -15,7 +15,7 @@ Effortless setup: Enjoy a smooth and straightforward installation experience.
 Download the WMC Easy Install script in the releases section.
 Run the script as an administrator.
 Follow the on-screen instructions.
-Once the installation is complete, restart your computer.
+Once the installation is complete, you are ready to go.
 # Disclaimer:
 
 This script is provided as-is without any warranty or support. Use it at your own discretion.
